@@ -1,8 +1,104 @@
-body {
-    
-background-image:url(background/fotoalti.jpg);
-background-repeat:no-repeat;
-background-size: cover;
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
 
+body {
+    background-image: url(background/fotoalti.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.container {
+    padding: 13px;
+}
+
+.container.my-5 {
+    margin-top: 1.35rem !important;
+    margin-bottom: 1.35rem !important;
+}
+
+.navbar {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 0.18rem 0.45rem;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-icon {
+    font-size: 1.2rem;
+}
+
+.navbar-brand h4 {
+    font-size: 1.1rem !important;
+    margin-bottom: 0;
+    margin-left: 0.5rem;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 13.5px;
+}
+
+.card-body {
+    padding: 1.35rem !important;
+}
+
+.card-title {
+    margin-bottom: 1.08rem !important;
+    font-size: 1.26rem !important;
+}
+
+.form-group {
+    margin-bottom: 0.72rem;
+}
+
+.form-control, .custom-select {
+    border-radius: 8px;
+    border: 1px solid #e1e1e1;
+    padding: 9px 13.5px;
+    background: rgba(255, 255, 255, 0.9);
+    font-size: 0.99rem;
+    height: auto;
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 9px;
+    font-weight: 500;
+    background: #2d3436;
+    border: none;
+    transition: all 0.3s;
+    font-size: 0.99rem;
+}
+
+.btn:hover {
+    background: #636e72;
+}
+
+.alert {
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid #e1e1e1;
+    margin-top: 0.72rem;
+    padding: 0.72rem;
+    font-size: 0.99rem;
+}
+
+.mt-4 {
+    margin-top: 1.35rem !important;
 }
 
