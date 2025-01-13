@@ -4,12 +4,12 @@ A web-based application that allows users to calculate real-time currency and cr
 
 ## Features
 
-- **Currency Exchange Calculator**
+**Currency Exchange Calculator**
   - Convert between 26 different fiat currencies
   - Real-time exchange rates using exchangerate-api.com
   - Support for major currencies including USD, EUR, GBP, JPY, and more
 
-- **Cryptocurrency Calculator**
+**Cryptocurrency Calculator**
   - Convert between 21 different cryptocurrencies
   - Real-time crypto rates using CryptoCompare API
   - Support for major cryptocurrencies including Bitcoin, Ethereum, Binance Coin, and more
