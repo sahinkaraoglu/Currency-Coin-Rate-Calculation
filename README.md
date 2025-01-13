@@ -36,7 +36,3 @@ A web-based application that allows users to calculate real-time currency and cr
 3. Enter the amount you want to convert
 4. Click the "Calculate" button
 5. View the converted amount in the result section
-
-## Setup
-
-1. Clone the repository
