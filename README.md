@@ -29,10 +29,3 @@ A web-based application that allows users to calculate real-time currency and cr
 
 ![Döviz CoinCalculate](https://github.com/user-attachments/assets/63ac3774-0966-4cc1-87ed-27b101c653d1)
 
-## How to Use
-
-1. Select the source currency/cryptocurrency from the first dropdown
-2. Select the target currency/cryptocurrency from the second dropdown
-3. Enter the amount you want to convert
-4. Click the "Calculate" button
-5. View the converted amount in the result section
