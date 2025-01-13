@@ -25,9 +25,9 @@ A web-based application that allows users to calculate real-time currency and cr
   - ExchangeRate API for fiat currencies
   - CryptoCompare API for cryptocurrencies
 
-## Screenshots
+## Screen
 
-![Currency & Coin Calculator](https://github.com/sahinkaraoglu/Currency-Coin-Rate-Calculation/assets/76259114/31e603fb-f3fe-4be4-ba9c-25d21ff3d692)
+![Döviz CoinCalculate](https://github.com/user-attachments/assets/63ac3774-0966-4cc1-87ed-27b101c653d1)
 
 ## How to Use
 
