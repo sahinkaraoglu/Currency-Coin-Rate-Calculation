@@ -26,6 +26,6 @@ A web-based application that allows users to calculate real-time currency and cr
   - CryptoCompare API for cryptocurrencies
 
 ## Screen
-[<img src="https://github.com/user-attachments/assets/63ac3774-0966-4cc1-87ed-" alt="Örnek Resim" width="300"/>](https://example.com/image.png)
+[<img src="https://github.com/user-attachments/assets/63ac3774-0966-4cc1-87ed-" alt="Örnek Resim" width="300"/>](https://github.com/user-attachments/assets/63ac3774-0966-4cc1-87ed-)
 ![Döviz CoinCalculate](https://github.com/user-attachments/assets/63ac3774-0966-4cc1-87ed-27b101c653d1)
 
