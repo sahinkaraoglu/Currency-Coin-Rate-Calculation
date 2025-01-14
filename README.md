@@ -27,5 +27,8 @@ A web-based application that allows users to calculate real-time currency and cr
 
 ## Screen
 
-![Döviz CoinCalculate](https://github.com/user-attachments/assets/63ac3774-0966-4cc1-87ed-27b101c653d1)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/6f69d5ff-f680-492a-ae96-aacbdd6869da" alt="2x2 Collage" width="800"/>
+</div>
+
 
