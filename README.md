@@ -5,7 +5,7 @@ A web-based application that allows users to calculate real-time currency and cr
 ## Screen
 
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/6f69d5ff-f680-492a-ae96-aacbdd6869da" alt="2x2 Collage" width="896" height="864"/>
+    <img src="https://github.com/user-attachments/assets/06e7cfc8-e6a4-473a-9836-2b2e5aa972bc" alt="2x2 Collage" width="896" height="864"/>
 </div>
 
 ## Features
