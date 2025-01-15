@@ -2,7 +2,7 @@
 
 A web-based application that allows users to calculate real-time currency and cryptocurrency exchange rates using external APIs.
 
-## Screen
+## App Screen
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/26acdcb5-774e-4b3e-bade-0329e452a587" style="max-width: 90%; width: 100%; height: auto;" alt="Uygulama Ekran Görüntüsü">
